@@ -1,0 +1,19 @@
+{
+  "name": "alura-cases-divulgacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mateus-joaquim/nextjs_alura-course.git",
+  "author": "mateus-joaquim <m.joaquim.fs@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.1.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    }
+}
